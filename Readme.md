@@ -1,6 +1,13 @@
-# Flask Blog Application
+# Flask Blog Application 
 
 This is a simple blog application built with Flask, a micro web framework for Python. It uses an external API to fetch blog posts and displays them on a user-friendly web interface.
+
+## Output
+
+
+https://github.com/sarvesh-2109/Blog-Capstone-P1/assets/113255836/a0983597-4790-4433-bf9c-ac3cc5452507
+
+
 
 ## Project Structure
 
